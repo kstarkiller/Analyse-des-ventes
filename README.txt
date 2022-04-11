@@ -1,5 +1,3 @@
-PROJET 4 : Analyse des ventes
-
 INTRODUCTION
 Ce projet m'a permis de réaliser une analyse des données de ventes d'une librairie en ligne fictive.
 J'ai tout d'abord nettoyé et réorganisé les données puis je les ai analysées.
